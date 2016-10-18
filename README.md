@@ -14,6 +14,6 @@ Right now we are running version <b>1.0</b>.
 # Images
 
 # Cost & Delivery
-3DXChat Plus will be sent to your email with a download-link after payment. You will pay through Paypal as it is the most secure transaction. The cost is <b>$29 /forever</b> all-included.
+3DXChat Plus will be sent to your email with a download-link after payment. You will pay through Paypal as it is the most secure transaction for both parts. The cost is <b>$29 /forever</b> all-included.
 
 # Manual
