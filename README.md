@@ -12,7 +12,10 @@ Right now we are running version <b>1.0</b>.
 &#8226; Users online on 3DXChat Plus Network <i>(You can do webcam chat with all the online users only)</i><br>
 &#8226; 20+ Extra groaming sounds<br>
 &#8226; Higher model quality<br>
-&#8226; More cuming... ;)
+&#8226; Bigger boobs<br>
+&#8226; Bigger ass<br>
+&#8226; Bigger dick<br>
+&#8226; More cuming... ;) <i>(Updates follows licensed product)</i>
 
 # Images
 
