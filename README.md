@@ -23,7 +23,7 @@ Download 3DXChat Plus by clicking the green button <i>Clone or download > Downlo
 When entering a room in 3DXChat you can switch a button which enables all Build-In Features. Now you can just play around!
 
 # Questions
-<i>How come I don't see the button?</i><br>
+<i>How come I do not see the button?</i><br>
 Make sure that you are running the program as administrator.
 
 <i>I have not got any email?</i><br>
