@@ -3,4 +3,11 @@
 
 # 3DXChat Plus build-in
 
-&#8226; Hey
+&#8226; Webcam chat inside the game
+&#8226; 100+ Extra groaming sounds
+&#8226; Higher model quality
+
+# 3DXChat Plus Cost & Delivery
+3DXChat Plus is a client you will be able to download after payment.
+You will pay through Paypal as it is the most secure transaction.
+The cost is $49 /forever, and you will reviece all new updates also.
