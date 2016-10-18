@@ -34,7 +34,7 @@ Take it easy. We do have many orders which takes time as we specialize 3DXChat P
 <i>Webcam chat not working?</i><br>
 Either the user you are trying to do webcam chat with does not own 3DXChat Plus or you do not own a webcam. Make sure your webcam is connected correctly.
 
-# Sharing
+# Share
 Share our project so we can make 3DXChat naughty together! This is not a hack - this is just how we think that 3DXChat <b>SHOULD</b> have in their game. Therefore we made it possible.<br>
 Thank you!
 <br>
