@@ -1,3 +1,6 @@
+# Who are we?
+We are a team of 4 horny developers doing adult games more fun to play.
+
 # 3DXChat Plus
 <b>3DXCHatCoders</b> presents 3DXChat Plus.<br>
 3DXChat Plus is a mod build for 3DXChat. There are currently <b>250+</b> users using 3DXChat Plus.<br>
