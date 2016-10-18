@@ -15,7 +15,7 @@ Right now we are running version <b>1.0</b>.
 &#8226; Bigger boobs<br>
 &#8226; Bigger ass<br>
 &#8226; Bigger dick<br>
-&#8226; More cuming... ;) <i>(Updates follows licensed product)</i>
+&#8226; More cuming... ;) <i>(Licensed product will always be up-to-date)</i>
 
 # Images
 
