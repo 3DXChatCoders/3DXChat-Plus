@@ -1,5 +1,5 @@
 # Who are we?
-We are a team of 4 horny developers doing <i>"<b>cumcoding</b> so you can <b>cum</b> better."</i>
+We are a team of 4 horny developers doing <i>"<b>cumcoding</b> so you can <b>cum</b> better."</i> &#10084;
 
 # 3DXChat Plus
 <b>3DXChatCoders</b> presents 3DXChat Plus.<br>
