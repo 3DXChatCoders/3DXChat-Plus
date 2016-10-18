@@ -8,7 +8,7 @@
 &#8226; Users online <i>(Able to see who you can do webcam chat with)</i><br>
 &#8226; 100+ Extra groaming sounds<br>
 &#8226; Higher model quality<br>
-&#8226; More coming
+&#8226; More coming...
 
 # Images
 
