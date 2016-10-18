@@ -1,5 +1,5 @@
 # Who are we?
-We are a team of 4 horny developers doing adult games more fun to play.
+We are a team of 4 horny developers.
 
 # 3DXChat Plus
 <b>3DXCHatCoders</b> presents 3DXChat Plus.<br>
