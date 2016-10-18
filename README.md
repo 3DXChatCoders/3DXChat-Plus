@@ -23,13 +23,13 @@ Right now we are running version <b>1.0</b>.
 Simply just download 3DXChat Plus and run it. After entering a room in 3DXChat you can switch a button which enables all Build-In Features. Now you can just play around!
 
 # Questions
-<i>How come I don't see the button?</i>
+<i>How come I don't see the button?</i><br>
 Make sure that you are running the program as administrator.
 
-<i>I have not got any email?</i>
+<i>I have not got any email?</i><br>
 Take it easy. We do have many orders which takes time as we specialize 3DXChat Plus for all our customers.
 
-<i>Webcam chat not working?</i>
+<i>Webcam chat not working?</i><br>
 Either the user you are trying to do webcam chat with does not own 3DXChat Plus or you do not own a webcam. Make sure your webcam is connected correctly.
 <br>
 <br>
