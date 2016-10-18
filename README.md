@@ -34,5 +34,6 @@ Either the user you are trying to do webcam chat with does not own 3DXChat Plus 
 <br>
 <br>
 <br>
+<br>
 Best Regards,<br>
 <i>3DXChatCoders</i>
