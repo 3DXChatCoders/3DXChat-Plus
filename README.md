@@ -13,6 +13,6 @@
 # Cost & Delivery
 3DXChat Plus is a client you will be able to download after payment.
 You will pay through Paypal as it is the most secure transaction.
-The cost is <b>$49 /forever</b>, and you will reviece all new updates also.
+The cost is <b>$29 /forever</b>, and you will reviece all new updates also.
 
 # Manual
