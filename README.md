@@ -25,5 +25,3 @@ Simply just download 3DXChat Plus and run it. After entering a room in 3DXChat y
 <br>
 Best Regards,<br>
 <i>3DXChatCoders</i>
-
-<font style="color:blue;">hey</font>
