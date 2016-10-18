@@ -1,5 +1,5 @@
 # 3DXChat Plus
-3DXChat Plus is a mod build for 3DXChat. There are right now <b>250+</b> users using 3DXChat Plus.
+3DXChat Plus is a mod build for 3DXChat. There are currently <b>250+</b> users using 3DXChat Plus.
 
 # 3DXChat Plus Build-In Features
 
