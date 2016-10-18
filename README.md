@@ -20,7 +20,7 @@ Right now we are running version <b>1.0</b>.
 3DXChat Plus will be sent to your email as a download-link after payment. You will pay through Paypal as it is the most secure transaction for both parts. The cost is <b>$29 /forever</b> all-included.
 
 # Manual
-Simply just download 3DXChat Plus and run it. After entering a room in 3DXChat you will see a button where you will find all Build-In Features. Now you can just play around!<br>
+Simply just download 3DXChat Plus and run it. After entering a room in 3DXChat you can switch a button which enables all Build-In Features. Now you can just play around!<br>
 <br>
 <br>
 Best Regards,<br>
