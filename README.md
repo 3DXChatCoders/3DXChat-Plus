@@ -10,7 +10,7 @@ Right now we are running version <b>1.0</b>.
 
 &#8226; Webcam chat inside game<br>
 &#8226; Users online <i>(Able to see who you can do webcam chat with)</i><br>
-&#8226; 100+ Extra groaming sounds<br>
+&#8226; 20+ Extra groaming sounds<br>
 &#8226; Higher model quality<br>
 &#8226; More coming...
 
