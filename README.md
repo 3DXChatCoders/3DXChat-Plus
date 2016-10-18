@@ -3,8 +3,8 @@
 
 # 3DXChat Plus build-in
 
-&#8226; Webcam chat inside the game
-&#8226; 100+ Extra groaming sounds
+&#8226; Webcam chat inside the game<br>
+&#8226; 100+ Extra groaming sounds<br>
 &#8226; Higher model quality
 
 # 3DXChat Plus Cost & Delivery
