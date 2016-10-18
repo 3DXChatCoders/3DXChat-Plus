@@ -20,7 +20,7 @@ Right now we are running version <b>1.0</b>.
 Download 3DXChat Plus by clicking the green button <i>Clone or download > Download ZIP</i> at the top of this page. You will need a license code before 3DXChat Plus will work. Pay through Paypal as it is the most secure transaction for both parts. The cost is <b>$29 /forever</b> all-included. When payment is done you will recieve the license code on the same email as you are using on Paypal.
 
 # Manual
-Simply just download 3DXChat Plus and run it. After entering a room in 3DXChat you can switch a button which enables all Build-In Features. Now you can just play around!
+When entering a room in 3DXChat you can switch a button which enables all Build-In Features. Now you can just play around!
 
 # Questions
 <i>How come I don't see the button?</i><br>
